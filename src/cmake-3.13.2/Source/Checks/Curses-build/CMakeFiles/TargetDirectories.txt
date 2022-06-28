@@ -1,0 +1,2 @@
+/root/wax-blockchain/src/cmake-3.13.2/Source/Checks/Curses-build/CMakeFiles/rebuild_cache.dir
+/root/wax-blockchain/src/cmake-3.13.2/Source/Checks/Curses-build/CMakeFiles/edit_cache.dir

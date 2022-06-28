@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/wax-blockchain/src/cmake-3.13.2/Utilities/cmcompress/cmcompress.c
+cmcompress.h
+/root/wax-blockchain/src/cmake-3.13.2/Utilities/cmcompress/cmcompress.h
+errno.h
+-
+string.h
+-
+
+/root/wax-blockchain/src/cmake-3.13.2/Utilities/cmcompress/cmcompress.h
+stdio.h
+-
+
